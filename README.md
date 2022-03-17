@@ -1,0 +1,2 @@
+# dicee
+simple dice game
